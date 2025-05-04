@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eliton_camargo\\Desktop\\AppCalculadorImposto\\AppCalculadorImposto\\AppCalculadorImposto.csproj",
+      "projectUniqueName": "C:\\Users\\eliton_camargo\\Desktop\\Design Pattern (GOF)\\AppCalculadorImposto\\AppCalculadorImposto.csproj",
       "projectName": "AppCalculadorImposto",
-      "projectPath": "C:\\Users\\eliton_camargo\\Desktop\\AppCalculadorImposto\\AppCalculadorImposto\\AppCalculadorImposto.csproj",
+      "projectPath": "C:\\Users\\eliton_camargo\\Desktop\\Design Pattern (GOF)\\AppCalculadorImposto\\AppCalculadorImposto.csproj",
       "packagesPath": "C:\\Users\\eliton_camargo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eliton_camargo\\Desktop\\AppCalculadorImposto\\AppCalculadorImposto\\obj\\",
+      "outputPath": "C:\\Users\\eliton_camargo\\Desktop\\Design Pattern (GOF)\\AppCalculadorImposto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eliton_camargo\\AppData\\Roaming\\NuGet\\NuGet.Config",
