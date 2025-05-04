@@ -1,0 +1,14 @@
+C:\Users\eliton_camargo\Desktop\AppCalculadorImposto\AppCalculadorImposto\bin\Debug\net8.0\AppCalculadorImposto.exe
+C:\Users\eliton_camargo\Desktop\AppCalculadorImposto\AppCalculadorImposto\bin\Debug\net8.0\AppCalculadorImposto.deps.json
+C:\Users\eliton_camargo\Desktop\AppCalculadorImposto\AppCalculadorImposto\bin\Debug\net8.0\AppCalculadorImposto.runtimeconfig.json
+C:\Users\eliton_camargo\Desktop\AppCalculadorImposto\AppCalculadorImposto\bin\Debug\net8.0\AppCalculadorImposto.dll
+C:\Users\eliton_camargo\Desktop\AppCalculadorImposto\AppCalculadorImposto\bin\Debug\net8.0\AppCalculadorImposto.pdb
+C:\Users\eliton_camargo\Desktop\AppCalculadorImposto\AppCalculadorImposto\obj\Debug\net8.0\AppCalculadorImposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliton_camargo\Desktop\AppCalculadorImposto\AppCalculadorImposto\obj\Debug\net8.0\AppCalculadorImposto.AssemblyInfoInputs.cache
+C:\Users\eliton_camargo\Desktop\AppCalculadorImposto\AppCalculadorImposto\obj\Debug\net8.0\AppCalculadorImposto.AssemblyInfo.cs
+C:\Users\eliton_camargo\Desktop\AppCalculadorImposto\AppCalculadorImposto\obj\Debug\net8.0\AppCalculadorImposto.csproj.CoreCompileInputs.cache
+C:\Users\eliton_camargo\Desktop\AppCalculadorImposto\AppCalculadorImposto\obj\Debug\net8.0\AppCalculadorImposto.dll
+C:\Users\eliton_camargo\Desktop\AppCalculadorImposto\AppCalculadorImposto\obj\Debug\net8.0\refint\AppCalculadorImposto.dll
+C:\Users\eliton_camargo\Desktop\AppCalculadorImposto\AppCalculadorImposto\obj\Debug\net8.0\AppCalculadorImposto.pdb
+C:\Users\eliton_camargo\Desktop\AppCalculadorImposto\AppCalculadorImposto\obj\Debug\net8.0\AppCalculadorImposto.genruntimeconfig.cache
+C:\Users\eliton_camargo\Desktop\AppCalculadorImposto\AppCalculadorImposto\obj\Debug\net8.0\ref\AppCalculadorImposto.dll

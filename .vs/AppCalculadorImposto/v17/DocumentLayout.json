@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eliton_camargo\\Desktop\\AppCalculadorImposto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{733A3A93-05FE-406B-BB40-F0AD2018624C}|AppCalculadorImposto\\AppCalculadorImposto.csproj|c:\\users\\eliton_camargo\\desktop\\appcalculadorimposto\\appcalculadorimposto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733A3A93-05FE-406B-BB40-F0AD2018624C}|AppCalculadorImposto\\AppCalculadorImposto.csproj|solutionrelative:appcalculadorimposto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733A3A93-05FE-406B-BB40-F0AD2018624C}|AppCalculadorImposto\\AppCalculadorImposto.csproj|c:\\users\\eliton_camargo\\desktop\\appcalculadorimposto\\appcalculadorimposto\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733A3A93-05FE-406B-BB40-F0AD2018624C}|AppCalculadorImposto\\AppCalculadorImposto.csproj|solutionrelative:appcalculadorimposto\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733A3A93-05FE-406B-BB40-F0AD2018624C}|AppCalculadorImposto\\AppCalculadorImposto.csproj|c:\\users\\eliton_camargo\\desktop\\appcalculadorimposto\\appcalculadorimposto\\class\\pis_cofins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733A3A93-05FE-406B-BB40-F0AD2018624C}|AppCalculadorImposto\\AppCalculadorImposto.csproj|solutionrelative:appcalculadorimposto\\class\\pis_cofins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733A3A93-05FE-406B-BB40-F0AD2018624C}|AppCalculadorImposto\\AppCalculadorImposto.csproj|c:\\users\\eliton_camargo\\desktop\\appcalculadorimposto\\appcalculadorimposto\\interfaces\\tipoimposto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733A3A93-05FE-406B-BB40-F0AD2018624C}|AppCalculadorImposto\\AppCalculadorImposto.csproj|solutionrelative:appcalculadorimposto\\interfaces\\tipoimposto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733A3A93-05FE-406B-BB40-F0AD2018624C}|AppCalculadorImposto\\AppCalculadorImposto.csproj|c:\\users\\eliton_camargo\\desktop\\appcalculadorimposto\\appcalculadorimposto\\class\\calculadoradeimposto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733A3A93-05FE-406B-BB40-F0AD2018624C}|AppCalculadorImposto\\AppCalculadorImposto.csproj|solutionrelative:appcalculadorimposto\\class\\calculadoradeimposto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733A3A93-05FE-406B-BB40-F0AD2018624C}|AppCalculadorImposto\\AppCalculadorImposto.csproj|c:\\users\\eliton_camargo\\desktop\\appcalculadorimposto\\appcalculadorimposto\\class\\ipi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733A3A93-05FE-406B-BB40-F0AD2018624C}|AppCalculadorImposto\\AppCalculadorImposto.csproj|solutionrelative:appcalculadorimposto\\class\\ipi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733A3A93-05FE-406B-BB40-F0AD2018624C}|AppCalculadorImposto\\AppCalculadorImposto.csproj|c:\\users\\eliton_camargo\\desktop\\appcalculadorimposto\\appcalculadorimposto\\class\\icms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733A3A93-05FE-406B-BB40-F0AD2018624C}|AppCalculadorImposto\\AppCalculadorImposto.csproj|solutionrelative:appcalculadorimposto\\class\\icms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICMS.cs",
+              "DocumentMoniker": "C:\\Users\\eliton_camargo\\Desktop\\AppCalculadorImposto\\AppCalculadorImposto\\class\\ICMS.cs",
+              "RelativeDocumentMoniker": "AppCalculadorImposto\\class\\ICMS.cs",
+              "ToolTip": "C:\\Users\\eliton_camargo\\Desktop\\AppCalculadorImposto\\AppCalculadorImposto\\class\\ICMS.cs",
+              "RelativeToolTip": "AppCalculadorImposto\\class\\ICMS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:53:49.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPI.cs",
+              "DocumentMoniker": "C:\\Users\\eliton_camargo\\Desktop\\AppCalculadorImposto\\AppCalculadorImposto\\class\\IPI.cs",
+              "RelativeDocumentMoniker": "AppCalculadorImposto\\class\\IPI.cs",
+              "ToolTip": "C:\\Users\\eliton_camargo\\Desktop\\AppCalculadorImposto\\AppCalculadorImposto\\class\\IPI.cs",
+              "RelativeToolTip": "AppCalculadorImposto\\class\\IPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:53:43.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PIS_COFINS.cs",
+              "DocumentMoniker": "C:\\Users\\eliton_camargo\\Desktop\\AppCalculadorImposto\\AppCalculadorImposto\\class\\PIS_COFINS.cs",
+              "RelativeDocumentMoniker": "AppCalculadorImposto\\class\\PIS_COFINS.cs",
+              "ToolTip": "C:\\Users\\eliton_camargo\\Desktop\\AppCalculadorImposto\\AppCalculadorImposto\\class\\PIS_COFINS.cs",
+              "RelativeToolTip": "AppCalculadorImposto\\class\\PIS_COFINS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:53:39.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TipoImposto.cs",
+              "DocumentMoniker": "C:\\Users\\eliton_camargo\\Desktop\\AppCalculadorImposto\\AppCalculadorImposto\\interfaces\\TipoImposto.cs",
+              "RelativeDocumentMoniker": "AppCalculadorImposto\\interfaces\\TipoImposto.cs",
+              "ToolTip": "C:\\Users\\eliton_camargo\\Desktop\\AppCalculadorImposto\\AppCalculadorImposto\\interfaces\\TipoImposto.cs",
+              "RelativeToolTip": "AppCalculadorImposto\\interfaces\\TipoImposto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:53:35.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\eliton_camargo\\Desktop\\AppCalculadorImposto\\AppCalculadorImposto\\Helper.cs",
+              "RelativeDocumentMoniker": "AppCalculadorImposto\\Helper.cs",
+              "ToolTip": "C:\\Users\\eliton_camargo\\Desktop\\AppCalculadorImposto\\AppCalculadorImposto\\Helper.cs",
+              "RelativeToolTip": "AppCalculadorImposto\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:53:06.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculadoraDeImposto.cs",
+              "DocumentMoniker": "C:\\Users\\eliton_camargo\\Desktop\\AppCalculadorImposto\\AppCalculadorImposto\\class\\CalculadoraDeImposto.cs",
+              "RelativeDocumentMoniker": "AppCalculadorImposto\\class\\CalculadoraDeImposto.cs",
+              "ToolTip": "C:\\Users\\eliton_camargo\\Desktop\\AppCalculadorImposto\\AppCalculadorImposto\\class\\CalculadoraDeImposto.cs",
+              "RelativeToolTip": "AppCalculadorImposto\\class\\CalculadoraDeImposto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:51:31.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eliton_camargo\\Desktop\\AppCalculadorImposto\\AppCalculadorImposto\\Program.cs",
+              "RelativeDocumentMoniker": "AppCalculadorImposto\\Program.cs",
+              "ToolTip": "C:\\Users\\eliton_camargo\\Desktop\\AppCalculadorImposto\\AppCalculadorImposto\\Program.cs",
+              "RelativeToolTip": "AppCalculadorImposto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:50:21.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
