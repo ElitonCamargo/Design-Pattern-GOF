@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace AppCalculadorImposto
 {
-    public class ICMS: TipoImposto
+    public class FL : TipoImposto
     {
         public decimal Calcular(decimal valor)
         {
-            return valor * 0.18m; // ICMS 18%
+            return valor * 0.25m; // FL 25%
         }
-
     }
 }

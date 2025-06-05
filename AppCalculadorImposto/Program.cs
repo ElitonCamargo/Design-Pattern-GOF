@@ -11,6 +11,7 @@ namespace AppCalculadorImposto
         static void Main(string[] args)
         {
             try
+
             {
                 // Exibe o cabeçalho da aplicação
                 Console.WriteLine("=================== Calculadora de impostos ===================");
@@ -20,14 +21,15 @@ namespace AppCalculadorImposto
                 decimal valorProduto = decimal.Parse(Console.ReadLine()); // Lê e converte o valor do produto para decimal
 
                 // Solicita ao usuário o tipo de imposto
-                Console.Write("Digite o tipo de imposto (1 - ICMS, 2 - IPI, 3 - PIS/COFINS): ");
+                Console.Write("Digite o tipo de imposto (1 - ICMS, 2 - IPI, 3 - PIS/COFINS, 4 - FL): ");
                 string tipo = Console.ReadLine(); // Lê o tipo de imposto como string
 
                 // Seleciona o tipo de imposto com base na entrada do usuário
                 TipoImposto tipoImposto = Helper.selecionarImposto(tipo);
 
                 // Cria uma instância da calculadora de imposto com o tipo de imposto e o valor do produto
-                CalculadoraDeImposto calculadoraDeImposto = new CalculadoraDeImposto(tipoImposto, valorProduto);
+                CalculadoraDeImposto calculadoraDeImposto = 
+                    new CalculadoraDeImposto(tipoImposto, valorProduto);
 
                 // Calcula o valor do imposto devido
                 decimal valorImposto = calculadoraDeImposto.calcular();

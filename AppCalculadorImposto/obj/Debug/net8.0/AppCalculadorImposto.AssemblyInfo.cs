@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppCalculadorImposto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afc935b0f2725cd60c30685204d589444a1a3fe5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7c1fd621cd134388382614f1877fbabe7ce14ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppCalculadorImposto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppCalculadorImposto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

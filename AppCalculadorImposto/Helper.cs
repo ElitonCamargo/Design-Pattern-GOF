@@ -15,6 +15,7 @@ namespace AppCalculadorImposto
                 "1" => new ICMS(),
                 "2" => new IPI(),
                 "3" => new PIS_COFINS(),
+                "4" => new FL(),
                 _ => throw new ArgumentException("Tipo de imposto inválido.")
             };
         }
